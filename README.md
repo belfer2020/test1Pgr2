@@ -8,3 +8,4 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat, quo necessita
 tu był Bartek
 
 Piotrek też tu był
+Piotr też tu był oczywiście
