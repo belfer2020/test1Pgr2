@@ -10,3 +10,4 @@ tu był Bartek
 Piotrek też tu był
 
 trgo nie było
+olek byl tutaj
