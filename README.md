@@ -10,3 +10,6 @@ tu był Bartek
 Piotrek też tu był
 
 trgo nie było
+
+kacper tu byl
+github to bardzo pomocna aplikacja dla programistow
